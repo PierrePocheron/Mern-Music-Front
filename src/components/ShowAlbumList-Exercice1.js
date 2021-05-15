@@ -51,7 +51,7 @@ class ShowAlbumList extends Component {
 
             <div className="col-md-11">
               <Link to="/create-album" className="btn btn-outline-success float-right">
-                + Add New Album
+              ➕0 Add New Album
               </Link>
 
               <Link to="/" className="btn btn-outline-success float-left">

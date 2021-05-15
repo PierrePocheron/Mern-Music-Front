@@ -50,7 +50,7 @@ class ShowArtisteList extends Component {
 
             <div className="col-md-11">
               <Link to="/create-artiste" className="btn btn-outline-secondary float-right">
-                + Add New Artiste
+              ➕ Add New Artiste
               </Link>
               <Link to="/" className="btn btn-outline-secondary float-left">
               ⬅️ Return
